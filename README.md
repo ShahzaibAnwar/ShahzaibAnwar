@@ -19,5 +19,5 @@
 <a href="https://fb.com/shahzaib89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahzaib89" height="30" width="40" /></a>
 <a href="https://instagram.com/shahzaib__anwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahzaib__anwar" height="30" width="40" /></a>
 <a href="https://www.behance.net/zabi123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="zabi123" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/utbyshahzaibanwar](https://www.youtube.com/@utbyshahzaibanwar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="utbyshahzaibanwar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@utbyshahzaibanwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="utbyshahzaibanwar" height="30" width="40" /></a>
 </p>
