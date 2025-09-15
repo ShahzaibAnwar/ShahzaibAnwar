@@ -40,6 +40,18 @@ Digital Transformation & eCommerce Leader with 10+ years of experience driving t
 - **360° & Augmented Reality on eCommerce** — *Oct–Dec 2024*  
   Implemented AR/360° product visualization on Interwood.pk without third-party plugins; solved cross-platform compatibility and boosted engagement.
 
+- **n8n Daily Task Report Automation** — *Sep 2025*  
+  Open-source workflow that generates daily HTML task reports from Airtable/Google Sheets and emails them to teams with dynamic formatting (status highlights, progress %, and reminders).  
+  → Repo: [n8n-daily-task-report](https://github.com/ShahzaibAnwar/n8n-daily-task-report)
+
+---
+
+### 🔧 Open Source
+- [**n8n-daily-task-report**](https://github.com/ShahzaibAnwar/n8n-daily-task-report) → Automated daily HTML email reports from Airtable/Sheets  
+- [**Isfahan Inventory Sync Pro**](https://github.com/ShahzaibAnwar) → SAP + Shopify inventory sync engine (1M+ rows)  
+- [**AI-Powered Lead Capture & Qualification**](https://github.com/ShahzaibAnwar) → AI agent for parsing leads & auto-creating HubSpot contacts  
+
+
 ---
 
 ### 💼 Experience
