@@ -25,7 +25,7 @@ I am a **Digital Transformation & AI Automation Leader** with 10+ years of exper
 📈 Key Impact:
 - 🚀 Scaled eCommerce revenue from **PKR 50K → PKR 25M/month**
 - 💰 Saved **PKR 7M+ annually** via automation & AR solutions
-- ⚡ Eliminated **100% lead leakage** with AI automation systems
+- ⚡ Eliminated **100% lead leakage**
 - 📊 Improved ad efficiency by **40%+**
 
 ---
@@ -60,38 +60,99 @@ Google Ads • Meta Ads • GA4 • Facebook Pixel • Clarity
 ### 🤖 AI Lead Capture & Qualification System
 - AI agent that parses leads and auto-creates CRM entries
 - Reduced response time from **hours → seconds**
-- Eliminated manual processing
 
 ---
 
 ### 🔄 SAP + Shopify Inventory Sync Engine
 - Handles **1M+ records**
 - Real-time validation & logging
-- Built for enterprise-scale inventory management
 
 ---
 
 ### 📊 Interwood 360° Performance Dashboard
 - Unified KPIs across **Sales, Footfall, Support, Reviews**
-- Used by leadership for decision-making
-- Real-time insights across all showrooms
+- Real-time insights for leadership
 
 ---
 
 ### 📩 n8n Automation Suite
-- Automated:
-  - Lead capture
-  - Ticket creation
-  - Daily reporting
-  - CRM syncing
-- Reduced operational workload by **70%+**
+- Lead capture, ticketing, reporting, CRM syncing
+- Reduced workload by **70%+**
+
+---
+
+### 📊 Facebook (Meta) Ads Live Dashboard
+- API → Database → Dashboard automation
+- Real-time marketing KPIs
+
+---
+
+### 📊 Google Ads Performance Dashboard
+- Automated Google Ads reporting system
+- Real-time performance tracking
+
+---
+
+### 🧩 Deals & Showroom KPI Dashboard
+- KPIs at **showroom & employee level**
+- Improved sales visibility
 
 ---
 
 ### 🪑 AR/360° eCommerce Experience
-- Built AR system without third-party plugins
-- Improved engagement & conversion rates
-- Solved cross-device compatibility issues
+- Built without third-party plugins
+- Improved engagement & conversions
+
+---
+
+## 🔗 Live Projects / Products
+
+### 📊 Meta (Facebook) Ads Live Performance System
+- Real-time dashboard powered by **Meta Ads API + n8n**
+- Tracks campaign KPIs live
+- 🔗 https://www.etsy.com/listing/4436469418/meta-ads-live-performance-system-n8n
+
+---
+
+### 📊 Google Ads Live Dashboard
+- Google Ads API → Database → Dashboard pipeline
+- Tracks CPC, ROAS, conversions in real time
+
+---
+
+### 🤖 AI Lead Capture & Qualification System
+- AI-powered lead parsing & CRM automation
+- Integrated with HubSpot
+
+---
+
+### 🔄 SAP + Shopify Inventory Sync Engine
+- Enterprise inventory sync (1M+ records)
+- Built for scale
+
+---
+
+### 📊 Interwood 360° Business Dashboard
+- Sales, footfall, support, reviews dashboards
+- Real-time business intelligence
+
+---
+
+### 🎯 Leads Pre-Qualification & Support Dashboard
+- Combines Facebook + Website leads
+- Auto-routing to HubSpot sales teams
+
+---
+
+### 📦 AI Inventory Prediction System (ML)
+- Forecasting using machine learning
+- Optimizes stock & reduces losses
+
+---
+
+### 🧠 Unified Business Intelligence Web App (In Progress)
+- Combines all dashboards into one platform
+- Includes AI predictions (sales & footfall)
 
 ---
 
@@ -100,9 +161,9 @@ Google Ads • Meta Ads • GA4 • Facebook Pixel • Clarity
 ### 🏢 Interwood Mobel Pvt Ltd
 **Deputy Manager – Digital Transformation** *(2023 – Present)*
 
-- Leading company-wide AI & automation initiatives
+- Leading AI & automation initiatives
 - Built scalable systems integrating SAP, CRM & eCommerce
-- Driving digital growth via AI, analytics & marketing
+- Driving growth via analytics & marketing
 
 ---
 
@@ -142,10 +203,10 @@ English • Urdu • Arabic (Basic) • German (Beginner)
 ---
 
 ## 💡 What I’m Building Next
-- 🤖 Enterprise AI Assistants for internal operations  
-- 📦 Predictive Inventory AI (XGBoost / Forecasting)  
-- 💬 WhatsApp AI Automation Platform (SaaS)  
-- 📊 Advanced Business Intelligence Dashboards  
+- 🤖 Enterprise AI Assistants  
+- 📦 Predictive Inventory AI  
+- 💬 WhatsApp AI Automation SaaS  
+- 📊 Advanced BI Dashboards  
 
 ---
 
