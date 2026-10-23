@@ -21,7 +21,7 @@ Digital Transformation Leader · AI & Automation Architect · Full-Stack Builder
 
 ## 🧠 About Me
 
-I'm **Deputy Manager – Digital Transformation at Interwood Mobel**, with 10+ years across eCommerce, retail and enterprise operations.
+I'm **Manager – Digital Transformation at Interwood Mobel**, with 10+ years across eCommerce, retail and enterprise operations.
 My work sits where business meets engineering: I find the manual process, the missing number or the leaking lead, then build the system that fixes it, from the database up to the dashboard.
 
 **📈 Impact so far**
