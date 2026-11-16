@@ -180,8 +180,17 @@ A Claude skill that runs a faceless explainer reel from idea to upload: research
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShahzaibAnwar&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahzaibAnwar&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShahzaibAnwar&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShahzaibAnwar&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShahzaibAnwar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=ShahzaibAnwar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShahzaibAnwar&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
