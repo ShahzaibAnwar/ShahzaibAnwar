@@ -6,7 +6,7 @@ Digital Transformation Manager · Full-Stack Builder · AI &amp; Automation
 </h3>
 
 <p align="center">
-  I build the systems a business runs on: an ERP-connected platform used by 240+ staff, automations that remove manual work,
+  I build the systems a business runs on: an ERP-connected platform used across a whole company, automations that remove manual work,
   and desktop and mobile apps people install and use every day.
 </p>
 
@@ -33,11 +33,11 @@ My work sits where business meets engineering. I find the manual process, the mi
 
 | | |
 |---|---|
-| 🏢 Enterprise platform (MIS 360) | **240+ users · 19 departments** · web, iOS and Android |
+| 🏢 Enterprise platform (MIS 360) | **Used company-wide** · web, iOS and Android |
 | ⏱ First commit → company-wide production | **Under 4 months** |
-| 🛒 Shopify ecommerce | **Launch → PKR 25M annualised revenue** |
+| 🛒 Shopify ecommerce | **Launched and grown into a real sales channel** |
 | 📊 Paid-media efficiency | **+40%** |
-| 🔗 CRM deals matched to SAP customers | **8,872**, so the pipeline can be followed through to the invoice |
+| 🔗 CRM linked to ERP | **HubSpot deals matched to SAP customers**, so the pipeline can be followed through to the invoice |
 | 🪟 Published desktop app | **PixelFriend on the Microsoft Store** |
 
 ---
@@ -52,12 +52,12 @@ My work sits where business meets engineering. I find the manual process, the mi
 - **Mobile:** Android app on Google Play; iOS app via private App Store distribution
 - **Modules:**
   - 📊 **CEO Command Center** and a **live SAP Dashboard** with drill-down to source documents: orders, receipts, receivables, payables, stock and WIP, compared with last year and plan
-  - 💼 **Opportunity Center, Sales Planning and Sales Desk:** pipeline, 12,700+ open quotations, plan vs actual for each salesperson
-  - 🏗 **Site Activity Command Center:** 104,000+ SAP site activities with configurable SLAs
+  - 💼 **Opportunity Center, Sales Planning and Sales Desk:** pipeline, the open quotation book, plan vs actual for each salesperson
+  - 🏗 **Site Activity Command Center:** every SAP site stage from measurement to installation, with configurable SLAs
   - 🛒 **Ecommerce Command Center**, Digital Marketing and a Google Ads billing ledger
   - 🎧 **Customer Support:** HubSpot tickets, SAP service calls, Google Reviews, showroom analytics
   - 🗂 **Workflows:** Request Desk (ITSM), Meetings with AI minutes, Fleet, NCR Quality, Legal, Tasks and Projects, Creative Requests, Visitors
-  - 🧭 **Organogram-driven approvals** across a 401-person reporting tree, with escalation, SLAs and audit trails
+  - 🧭 **Organogram-driven approvals** that follow the company's reporting lines, with escalation, SLAs and audit trails
   - 📦 **Demand forecasting pilot:** statistical models with an AI overlay, scored against the planners' own figures
   - 🔐 SAP portal single sign-on, 2FA, least-privilege access, usage and adoption reporting
 
@@ -164,7 +164,7 @@ A Claude skill that runs a faceless explainer reel from idea to upload: research
 ## 🎓 Education &amp; Certifications
 
 **Education**
-- MBA (Project Management), Nur International University, *expected Mar 2027*
+- MBA (Supply Chain Management), Nur International University, *expected Mar 2027*: Procurement &amp; Supplier Management, Supply Chain Strategy &amp; Optimization
 - BBA, Nur International University, CGPA 3.52 / 4.00
 - BA (Journalism), University of the Punjab
 
